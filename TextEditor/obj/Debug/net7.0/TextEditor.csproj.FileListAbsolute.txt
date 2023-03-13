@@ -1,0 +1,15 @@
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.csproj.AssemblyReference.cache
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
