@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/TextEditor.csproj",
+      "projectUniqueName": "/home/pimpdrouse/Programming/RiderProjects/TextEditor/TextEditor/TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/TextEditor.csproj",
+      "projectPath": "/home/pimpdrouse/Programming/RiderProjects/TextEditor/TextEditor/TextEditor.csproj",
       "packagesPath": "/home/pimpdrouse/.nuget/packages/",
-      "outputPath": "/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/obj/",
+      "outputPath": "/home/pimpdrouse/Programming/RiderProjects/TextEditor/TextEditor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pimpdrouse/.nuget/NuGet/NuGet.Config"
@@ -57,7 +57,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.2, 7.0.2]"
+            "version": "[7.0.3, 7.0.3]"
           }
         ],
         "frameworkReferences": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oidcgB6MLCTpkHmImxPgnvQEQbeJEmMzk2qFssu3nVLAkpsWn/KkWFGx8J5FfAUvQ0VzjGzpvFSrdsVu6IzvPQ==",
+  "dgSpecHash": "qNYk+hrc7hKmk0BCVW/MEqDWZPRW3D4ZYsPSjH5inipmP01trxE84ZN5ccBsXRsPzjd1/PI4ViddtRkHgHdizg==",
   "success": true,
-  "projectFilePath": "/home/pimpdrouse/Programing/RiderProjects/TextEditor/TextEditor/TextEditor.csproj",
+  "projectFilePath": "/home/pimpdrouse/Programming/RiderProjects/TextEditor/TextEditor/TextEditor.csproj",
   "expectedPackageFiles": [
-    "/home/pimpdrouse/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+    "/home/pimpdrouse/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }
